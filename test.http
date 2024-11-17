@@ -1,0 +1,8 @@
+### Create a new album
+POST http://localhost:5000/api/song/album/new
+Content-Type: multipart/form-data
+
+title=Top 50 Songs Global
+description=Top 50 Songs Global
+file=@C:\Users\hgana\Downloads\photo-1616356607338-fd87169ecf1a.jpeg
+
