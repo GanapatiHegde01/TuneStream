@@ -31,4 +31,4 @@ TuneStream is designed as a full-stack web application built using the **MERN st
 
 1️⃣ **Clone the repo**
 ```bash
-git clone https://github.com/your-username/tunestream.git
+git clone https://github.com/your-username/TuneStream.git
